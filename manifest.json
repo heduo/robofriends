@@ -13,11 +13,6 @@
       "type": "image/png"
     },
     {
-      "src": "android-chrome-192x192.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
       "src": "mstile-150x150.png",
       "sizes": "144x144",
       "type": "image/png"
