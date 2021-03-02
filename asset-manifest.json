@@ -1,15 +1,15 @@
 {
-  "main.css": "/robofriends/static/css/main.253db635.chunk.css",
-  "main.js": "/robofriends/static/js/main.4b11b5a2.chunk.js",
-  "main.js.map": "/robofriends/static/js/main.4b11b5a2.chunk.js.map",
-  "static/css/1.429e8999.chunk.css": "/robofriends/static/css/1.429e8999.chunk.css",
-  "static/js/1.00c5cd41.chunk.js": "/robofriends/static/js/1.00c5cd41.chunk.js",
-  "static/js/1.00c5cd41.chunk.js.map": "/robofriends/static/js/1.00c5cd41.chunk.js.map",
-  "runtime~main.js": "/robofriends/static/js/runtime~main.1446d6ec.js",
-  "runtime~main.js.map": "/robofriends/static/js/runtime~main.1446d6ec.js.map",
-  "static/css/1.429e8999.chunk.css.map": "/robofriends/static/css/1.429e8999.chunk.css.map",
-  "static/css/main.253db635.chunk.css.map": "/robofriends/static/css/main.253db635.chunk.css.map",
+  "main.css": "/robofriends/static/css/main.5c343de3.chunk.css",
+  "main.js": "/robofriends/static/js/main.480293de.chunk.js",
+  "main.js.map": "/robofriends/static/js/main.480293de.chunk.js.map",
+  "runtime~main.js": "/robofriends/static/js/runtime~main.fb41d28d.js",
+  "runtime~main.js.map": "/robofriends/static/js/runtime~main.fb41d28d.js.map",
+  "static/css/2.cffe7fe3.chunk.css": "/robofriends/static/css/2.cffe7fe3.chunk.css",
+  "static/js/2.6e304941.chunk.js": "/robofriends/static/js/2.6e304941.chunk.js",
+  "static/js/2.6e304941.chunk.js.map": "/robofriends/static/js/2.6e304941.chunk.js.map",
   "index.html": "/robofriends/index.html",
-  "precache-manifest.bb7dea79804014002d891930fc84d031.js": "/robofriends/precache-manifest.bb7dea79804014002d891930fc84d031.js",
-  "service-worker.js": "/robofriends/service-worker.js"
+  "precache-manifest.1c88cfb525083c1d57d0372ac2ef23be.js": "/robofriends/precache-manifest.1c88cfb525083c1d57d0372ac2ef23be.js",
+  "service-worker.js": "/robofriends/service-worker.js",
+  "static/css/2.cffe7fe3.chunk.css.map": "/robofriends/static/css/2.cffe7fe3.chunk.css.map",
+  "static/css/main.5c343de3.chunk.css.map": "/robofriends/static/css/main.5c343de3.chunk.css.map"
 }
